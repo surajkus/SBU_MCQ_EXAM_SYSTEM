@@ -12,6 +12,7 @@
         /* display: flex; */
         justify-content: center;
         align-items: center;
+            background: linear-gradient(135deg, #74ABE2, #5563DE);
         height: 100vh;
     }
 

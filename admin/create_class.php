@@ -307,7 +307,7 @@ if(!isset($_SESSION["user"])){
     <h2 style="">Create New Class</h2>
     <form id="classForm" action="create_class_checker.php" method="post">
       <label for="classname">Course:</label>
-      <input type="text" id="classname" name="classname" placeholder="e.g. Class 10A" required>
+      <input type="text" id="classname" name="classname" placeholder="e.g. BCA/b tech" required>
 
       <label for="subject">Subject:</label>
       <input type="text" id="subject" name="subject" placeholder="e.g. Mathematics" required>
